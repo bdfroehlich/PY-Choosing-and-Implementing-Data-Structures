@@ -6,5 +6,3 @@ def print_array(nums):
         print(num)
 
 print(sum(a))
-mult_array = np.multiply(a,3)
-print(mult_array)
